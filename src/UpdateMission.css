@@ -1,0 +1,17 @@
+.ColumnTwo {
+    overflow-y: auto;
+    text-align: center;
+  }
+
+.ColumnTwo::-webkit-scrollbar {
+    display: none;
+}
+
+.ColumnThree {
+    overflow-y: auto;
+    text-align: center;
+  }
+
+.ColumnThree::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,8 @@
+.MissionManagement {
+    overflow-y: auto;
+    text-align: center;
+  }
+
+.MissionManagement::-webkit-scrollbar {
+    display: none;
+}

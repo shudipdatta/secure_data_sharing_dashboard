@@ -1,0 +1,8 @@
+.UserManagement {
+    overflow-y: auto;
+    text-align: center;
+  }
+
+.UserManagement::-webkit-scrollbar {
+    display: none;
+}
